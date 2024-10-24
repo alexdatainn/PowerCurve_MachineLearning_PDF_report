@@ -1,0 +1,10 @@
+Python 3.7+
+Libraries:
+pandas
+numpy
+requests
+json
+matplotlib
+seaborn
+scikit-learn
+Pillow
